@@ -1,5 +1,8 @@
 # medi_care
 
+sample Ui Screens =  [doctor_appointment.pdf](https://github.com/user-attachments/files/17964513/doctor_appointment.pdf)
+
+
 ![IMG_20241130_100835](https://github.com/user-attachments/assets/dc53b4cf-fdc5-4457-a1b5-45f03e7844f4)
 ![IMG_20241130_100856](https://github.com/user-attachments/assets/ac99aadf-bb52-4d23-9815-e27ee9608da4)
 ![IMG_20241130_100910](https://github.com/user-attachments/assets/1bd7f950-1824-4ce5-87fe-c8bf9708f5f2)
